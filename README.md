@@ -14,6 +14,7 @@
 | --- | --- | --- | --- |
 | [`vsc`](./vsc/) | VibeShotClub | 根据当前对话选择可用的 VSC 技能并直接执行 | 不知道该选哪个技能、查看能力、统一创作入口 |
 | [`character-candid-photography`](./character-candid-photography/) | [Voxcat](https://x.com/VoxcatAI) | 将成年角色转译为虚构摆拍的遮挡观察与抓拍摄影提示词 | 真人 COS、角色转译、手机快拍、十组差异化构图 |
+| [`character-design`](./character-design/) | [khanhhuyenngo985-sys](https://github.com/khanhhuyenngo985-sys) | 设计生产级人物资产图:身高比例锁、三视图转面、服装状态、道具锚点与视频可用性质检 | 人物资产图、角色设定图、三视图一致性、角色一致性 |
 | [`codex-image-to-eagle`](./codex-image-to-eagle/) | [古一](https://x.com/MANISH1027512) | 将 Codex 生成图片归档到 Eagle，并保存提示词、标签和文件夹信息 | 图片归档、素材管理、提示词复盘 |
 | [`rare-style-explorer`](./rare-style-explorer/) | [古一](https://x.com/MANISH1027512) | 从 620 条稀有视觉亚风格中组合中文生图提示词 | 风格探索、产品图、人物、海报、场景创意 |
 | [`shan-ze-school`](./shan-ze-school/) | [Richmond](https://x.com/zhurichmond) | 生成新东方神话、山海经异兽、工笔水墨奇幻方向的提示词 | 东方神怪、异兽、国风神话插画 |

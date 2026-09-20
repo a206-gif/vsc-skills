@@ -12,6 +12,17 @@
       "sha256": "9e199dae1db8b26c9da8632586da7c271ca0411cfce5a8d68fd60f8be02a62f5"
     },
     {
+      "name": "character-design",
+      "description": "Use when designing, revising, diagnosing, or prompting AI-video or image-generation characters, character sheets, casting assets, character cards, relationship matrices, genre cast packs, wardrobe state ladders, height/proportion locks, turnaround consistency, video-readiness gates, 身高比例锁, 三视图一致性, 成品角色图, 角色关系矩阵, 服装状态卡, 角色一致性, 角色DNA, 表情姿态, 服化道, 道具锚点, or character drift in multi-shot workflows.",
+      "category": "角色资产",
+      "deliverables": [
+        "prompt",
+        "workflow"
+      ],
+      "distinction": "生产级角色资产包：角色DNA、身高比例锁、三视图转面、服装状态阶梯、道具锚点、表情姿态与视频可用性质检，输出角色卡与生图/视频提示词。只要单张照片人像优先人像摄影技能；情侣旅拍连续资产优先旅行视频技能。",
+      "sha256": "6248787c83a66b2572fd33b243e7addf4e6fdf6fa81439244e130cdbbbfc38d9"
+    },
+    {
       "name": "codex-image-to-eagle",
       "description": "Archive Codex-generated images from the current user's Codex generated_images directory into Eagle with the prompt saved as annotation. Use when the user asks to save, archive, import, or sync Codex generated images to Eagle with prompts, tags, and folders.",
       "category": "图片归档",
